@@ -1,0 +1,9 @@
+# Site settings
+title: Me and Hugh
+email: hello@meandhugh.com
+description: Lovingly hand printed things from Kapiti, New Zealand.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.meandhugh.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
